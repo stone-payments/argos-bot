@@ -9,3 +9,10 @@
 - GITHUB_ORG
 - GITHUB_TEAM_ID
 - TELEGRAM_BOT_TOKEN
+
+# commands
+
+/pull_requests - shows team opens PRs on GITHUB
+
+
+# deployment
